@@ -16,6 +16,7 @@ Related task: [link to clickup]
 - Console commands.
 - Team or client follow up.
 - Dependency management commands.
+- Post deploy steps. 
 
 # Screenshot(s)
 - Example of what the feature looks like.
