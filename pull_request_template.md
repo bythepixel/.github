@@ -1,7 +1,7 @@
 Related task: [link to clickup]
 
 # Fixes, Changes, Additions, Removals (What)
-- What was changed from a technical perspective? Avoid being redundant with ClickUp task.
+- What was changed from a technical perspective?
 
 # Implementation Reasoning (Why)
 - Why did you implement things the way that you did?
@@ -19,3 +19,7 @@ Related task: [link to clickup]
 
 # Screenshot(s)
 - Example of what the feature looks like.
+
+# Bug context and root cause
+- Link to bug tracker, ex: Sentry.
+- What caused the bug.
