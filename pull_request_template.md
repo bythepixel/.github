@@ -28,7 +28,3 @@ Related task: [link to clickup]
 # AI Assistance (skip if usage was trivial)
 - If AI tools contributed to the solution, describe how they were used.
 - Include the prompt or key parts of it
-
-## Examples of what can be considered meaningful:
-- Discovering an approach you hadn’t considered
-- Identifying the root cause of a problem
