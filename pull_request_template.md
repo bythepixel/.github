@@ -24,3 +24,7 @@ Related task: [link to clickup]
 # Bug context and root cause
 - Link to bug tracker, ex: Sentry.
 - What caused the bug.
+
+# AI Assistance (skip if usage was trivial)
+- If AI tools contributed to the solution, describe how they were used.
+- Include the prompt or key parts of it
